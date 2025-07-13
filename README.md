@@ -3,8 +3,8 @@
 ## 📄 Internship Details
 
 - **🏢 Company:** CodTech IT Solutions  
-- **👨‍💻 Name:** Yuvraj Sahoo  
-- **🆔 Intern ID:** CT04DG1472  
+- **👨‍💻 Name:** RUDRA NARAYAN PAHADASINGH  
+- **🆔 Intern ID:** CT04DG1428  
 - **💻 Domain:** Frontend Web Development  
 - **⏳ Duration:** 4 Weeks  
 - **👨‍🏫 Mentor:** Neela Santosh  
