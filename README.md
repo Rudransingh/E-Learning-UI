@@ -67,7 +67,10 @@ The goal was to deliver a visually appealing and functional UI using pure fronte
   
 
 ---
+<img width="1874" height="935" alt="Image" src="https://github.com/user-attachments/assets/ae8fce60-c484-4f96-ac0b-bebe05cddd13" />
+<img width="1855" height="945" alt="Image" src="https://github.com/user-attachments/assets/52fc2f34-184e-4536-9956-e03536f21334" />
 
+<img width="1872" height="942" alt="Image" src="https://github.com/user-attachments/assets/d7465dc8-811a-41c8-b88b-6603e43cfe78" />
 
 
 ## ✅ Conclusion
